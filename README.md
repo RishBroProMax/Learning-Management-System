@@ -1,1 +1,26 @@
 # lms-v0
+
+
+## .env
+
+```
+POSTGRES_PRISMA_URL= postgres://postgres.kxlehsqjguhmymcrfxff:3atwA3QEURX9n5Uk@aws-0-us-east-1.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x
+SUPABASE_URL= https://kxlehsqjguhmymcrfxff.supabase.co
+NEXT_PUBLIC_SUPABASE_URL= https://kxlehsqjguhmymcrfxff.supabase.co
+POSTGRES_URL_NON_POOLING= postgres://postgres.kxlehsqjguhmymcrfxff:3atwA3QEURX9n5Uk@aws-0-us-east-1.pooler.supabase.com:5432/postgres?sslmode=require
+SUPABASE_JWT_SECRET= 8dW1KIaM4SqPy3Jlv5U4CwNuZPV3I/ZVr57iSve8E3wXYeijP47LtMC/eFWJ9y2eiE+32DR/ejFwcMgpGvBq7g==
+POSTGRES_USER= postgres
+NEXT_PUBLIC_SUPABASE_ANON_KEY= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt4bGVoc3FqZ3VobXltY3JmeGZmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDIyNzU5MzksImV4cCI6MjA1Nzg1MTkzOX0.LdAGBB8NUNTvUf0_Cw2K5OeHCQvpde9iVWKw4iT6cXA
+
+POSTGRES_PASSWORD= 3atwA3QEURX9n5Uk
+POSTGRES_DATABASE= postgres
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt4bGVoc3FqZ3VobXltY3JmeGZmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MjI3NTkzOSwiZXhwIjoyMDU3ODUxOTM5fQ.wDVr_6EImqj9_3UKzf1H0aQ2KfiKEPgo0xexjeIQM9o
+
+POSTGRES_HOST=db.kxlehsqjguhmymcrfxff.supabase.co
+
+SUPABASE_ANON_KEY= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt4bGVoc3FqZ3VobXltY3JmeGZmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDIyNzU5MzksImV4cCI6MjA1Nzg1MTkzOX0.LdAGBB8NUNTvUf0_Cw2K5OeHCQvpde9iVWKw4iT6cXA
+
+
+POSTGRES_URL= postgres://postgres.kxlehsqjguhmymcrfxff:3atwA3QEURX9n5Uk@aws-0-us-east-1.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x
+
+```
